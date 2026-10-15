@@ -1,19 +1,10 @@
-# Zion App Network — Interlinks
+# 🌐 Zion AI App Network
 
-Deal Desk AI is part of the **Zion App Network** by Zion Tech Group — a constellation of interconnected AI applications.
+- 🌐 Live page: https://ziontechgroup.com/deal-desk-ai/
+- 🗂️ Hub: https://ziontechgroup.com/zion-app-network/
+- ✨ Restored D–E: https://ziontechgroup.com/zion-app-network/app/network-restored-d-e-2026-showcase.html
+- 🗺️ Master Directory: https://ziontechgroup.com/zion-app-network/app/network-master-directory-2026.html
+- 🔎 Discovery: https://ziontechgroup.com/discovery/
+- 🏠 Home: https://ziontechgroup.com
 
-## Explore the network
-- [Zion App Network Hub](https://ziontechgroup.com/zion-app-network/)
-- [Zion Tech Group Homepage](https://ziontechgroup.com/)
-- [Sales Forecast AI](https://ziontechgroup.com/sales-forecast-ai/)
-- [Lead Scoring AI](https://ziontechgroup.com/lead-scoring-ai/)
-- [Pipeline Insights AI](https://ziontechgroup.com/pipeline-insights-ai/)
-- [Pricing Optimizer AI](https://ziontechgroup.com/pricing-optimizer-ai/)
-- [Churn Prediction AI](https://ziontechgroup.com/churn-prediction-ai/)
-- [Quote Builder AI](https://ziontechgroup.com/quote-builder-ai/)
-- [Contract Clause Extractor](https://ziontechgroup.com/contract-clause-extractor/)
-- [Plans & Pricing](https://ziontechgroup.com/en/plans/)
-- [AI Discovery](https://ziontechgroup.com/discovery/)
-
----
-© 2026 Zion Tech Group — https://ziontechgroup.com
+Inspect the README for documented status; publication is not proof of AI functionality.
